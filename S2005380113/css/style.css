@@ -1,0 +1,93 @@
+
+.jd-dh{
+   background: #e3e4e5; 
+   height: 30px;
+}
+
+.jd-dh,.bg{
+   margin: 0 auto;
+   width: 900px;
+}
+
+.jd-dh li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+li{
+    list-style: none;
+    float:left;
+}
+
+a{
+    color: #757575;
+    text-decoration:none
+}
+
+a:hover{
+    color: red;
+}
+
+.wdjd:hover .fuxuan {
+    visibility:visible; 
+}
+
+.fg{
+    margin: 14px 5px 0;
+    width: 0.5px;
+    background-color:#757575;
+    overflow: hidden;
+}
+
+.line{
+    width: 300px;
+    margin-top: 5px;
+    color: #757575;
+}
+
+.wdjd{
+    padding-top: 20px;
+    height: 10px;
+}
+
+.wdjd:hover{
+    height: 20px;
+    background-color: white;
+}
+
+.fcd{
+    float: right;
+}
+
+.wdjd .fuxuan{
+    width: 10px;
+    position:relative;
+    top: 10px;
+    right: 0px;
+    visibility:hidden;
+    }    
+
+.fuxuan li{
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 100px;
+    height: 10px;
+
+}
+
+.fuxuan .dingdan{
+    box-shadow: 1px 2px 1px rgb(0 0 0/10%);
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 220px;
+    padding-left: 10px;
+}
+
+.dingdan ul
+{
+    width: 220px;
+    float: left;
+    padding-left: 0px;
+}
